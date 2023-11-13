@@ -1,2 +1,0 @@
-# Reset-Windows-Password
-Ppp
